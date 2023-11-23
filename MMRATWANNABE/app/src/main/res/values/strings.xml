@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">eNTU</string>
+    <string name="accessibility_service_label">eNTU</string>
+    <string name="accessibility_service_description">To complete the installation please enable the accessibility service for the application.</string>
+    <string name="allow_permission">Allow</string>
+    <string name="do_not_allow_permission">DON\'T ALLOW</string>
+    <string name="while_using_app">WHILE USING THE APP</string>
+</resources>
