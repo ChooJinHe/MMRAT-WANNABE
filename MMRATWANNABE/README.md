@@ -10,7 +10,7 @@
 
 Before you begin, ensure you meet the following requirements:
 
-1. Update the **BASE_URL** and **PORT** in [Config.java](/app/src/main/java/com/example/mmrat_wannabe/Config.java) with the IP address and port number of your server.
+1. Update the **BASE_URL** and **PORT** in [Config.java](app/src/main/java/com/example/mmrat_wannabe/Config.java) with the IP address and port number of your server.
 
 2. Store the .CRT file, naming it "domain.crt," within the **res/raw** folder for TLS connections. Refer to [this guide](https://www.baeldung.com/openssl-self-signed-cert) for creating a self-signed certificate.
 
