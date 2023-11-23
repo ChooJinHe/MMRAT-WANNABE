@@ -52,7 +52,7 @@ https://github.com/ChooJinHe/MMRAT-WANNABE/assets/28280357/da0e7da9-4233-4f05-bf
 
 Watch the video below to see the hack bank application in action:
 
-https://github.com/ChooJinHe/MMRAT-WANNABE/assets/28280357/0e8609ba-b21a-41d5-b125-b505f46a97df
+https://github.com/ChooJinHe/MMRAT-WANNABE/assets/28280357/f119e2cb-da11-43f5-803d-c3d961066bfa
 
 ## Disclaimer
 
