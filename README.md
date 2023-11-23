@@ -30,47 +30,29 @@ Follow these steps to get started with MMRAT WANNABE:
 ## Video Demo
 Watch the video below to see how the application can be distributed.
 
-<video width="320" height="240" controls>
-  <source src="./demos/installing app.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/ChooJinHe/MMRAT-WANNABE/assets/28280357/bfcd1653-331b-461c-bb6a-080b3bcc89d5
 
 Watch the video below to see the application connected to the C2 and start sending data to server after accessibility setting enabled.
 
-<video width="320" height="240" controls>
-  <source src="./demos/enable accessibility.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/ChooJinHe/MMRAT-WANNABE/assets/28280357/5bb42769-403e-4876-a408-1f4646d49405
 
 Watch the video below to see the application auto accept permission.
 
-<video width="320" height="240" controls>
-  <source src="./demos/auto accept permission.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/ChooJinHe/MMRAT-WANNABE/assets/28280357/037b861d-ebd1-4892-9788-e8414f886315
 
 Watch the video below to see the Unlock Feature in action:
 
 Version 1 is placeholder pattern used.
 
-<video width="320" height="240" controls>
-  <source src="./demos/unlock screen v1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/ChooJinHe/MMRAT-WANNABE/assets/28280357/7323e1ed-ac2a-42c8-808a-0a26d6b65233
 
 Current version allows the attacker to input the pattern to draw.
 
-<video width="320" height="240" controls>
-  <source src="./demos/unlock screen v2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/ChooJinHe/MMRAT-WANNABE/assets/28280357/da0e7da9-4233-4f05-bf33-900254f09ba4
 
 Watch the video below to see the hack bank application in action:
 
-<video width="320" height="240" controls>
-  <source src="./demos/hack posb.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/ChooJinHe/MMRAT-WANNABE/assets/28280357/0e8609ba-b21a-41d5-b125-b505f46a97df
 
 ## Disclaimer
 
